@@ -1,5 +1,11 @@
 # Changes
 
+### \[v3.11.0\] 2025-07-18
+
+Added:
+
+- Math function `round` is added. Ex: `round(numberToBeRounded, numberOfDecimalPlaces)`
+
 ### \[v3.10.0\] 2023-05-12
 
 Added:
